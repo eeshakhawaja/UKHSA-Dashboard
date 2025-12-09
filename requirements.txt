@@ -1,4 +1,4 @@
 matplotlib
 pandas
-uk_covid19
+uk_mpox2b
 voila
