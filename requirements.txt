@@ -1,4 +1,3 @@
 matplotlib
 pandas
-uk_mpox2b
 voila
