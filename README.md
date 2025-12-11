@@ -1,5 +1,6 @@
 # UKHSA-Dashboard
-Analysed UKHSA Data and built a dashboard on Mpox Clad 2B as a part of my university project at Queen Mary University of London. 
+
+Based on UK Government data published by the UK Health Security Agency and on the DIY Disease Tracking Dashboard Kit by Fabrizio Smeraldi. Released under the GNU GPLv3.0 or later."
 
 
 The API keys have been already provided by the UKHSA website on : 
