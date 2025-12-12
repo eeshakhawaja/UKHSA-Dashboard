@@ -7,4 +7,4 @@ The API keys have been already provided by the UKHSA website on :
 https://ukhsa-dashboard.data.gov.uk/access-our-data/overview 
 
 
-click here to launch: https://mybinder.org/v2/gh/eeshakhawaja/UKHSA-Dashboard/HEAD?urlpath=voila%2Frender%2FEesha%2520Khawaja%2520_%2520ECS780P%2520_%2520assignment%2520-Final.ipynb%3F 
+click here to launch: https://hub.2i2c.mybinder.org/user/eeshakhawaja-ukhsa-dashboard-l6kg2ll0/doc/tree/voila/render/Eesha%20Khawaja%20_%20ECS780P%20_%20assignment%20-Final.ipynb
